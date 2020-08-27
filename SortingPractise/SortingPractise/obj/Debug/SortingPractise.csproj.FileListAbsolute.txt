@@ -1,0 +1,7 @@
+D:\Coding_VS\VS Programmes\SortingPractise\SortingPractise\bin\Debug\SortingPractise.exe.config
+D:\Coding_VS\VS Programmes\SortingPractise\SortingPractise\bin\Debug\SortingPractise.exe
+D:\Coding_VS\VS Programmes\SortingPractise\SortingPractise\bin\Debug\SortingPractise.pdb
+D:\Coding_VS\VS Programmes\SortingPractise\SortingPractise\obj\Debug\SortingPractise.csproj.CoreCompileInputs.cache
+D:\Coding_VS\VS Programmes\SortingPractise\SortingPractise\obj\Debug\SortingPractise.exe
+D:\Coding_VS\VS Programmes\SortingPractise\SortingPractise\obj\Debug\SortingPractise.pdb
+D:\Coding_VS\VS Programmes\SortingPractise\SortingPractise\obj\Debug\SortingPractise.csprojAssemblyReference.cache

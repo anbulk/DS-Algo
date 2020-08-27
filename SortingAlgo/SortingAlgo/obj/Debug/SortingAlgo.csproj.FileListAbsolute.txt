@@ -1,0 +1,7 @@
+c:\users\lkarody\source\repos\SortingAlgo\SortingAlgo\bin\Debug\SortingAlgo.exe.config
+c:\users\lkarody\source\repos\SortingAlgo\SortingAlgo\bin\Debug\SortingAlgo.exe
+c:\users\lkarody\source\repos\SortingAlgo\SortingAlgo\bin\Debug\SortingAlgo.pdb
+c:\users\lkarody\source\repos\SortingAlgo\SortingAlgo\obj\Debug\SortingAlgo.csprojAssemblyReference.cache
+c:\users\lkarody\source\repos\SortingAlgo\SortingAlgo\obj\Debug\SortingAlgo.csproj.CoreCompileInputs.cache
+c:\users\lkarody\source\repos\SortingAlgo\SortingAlgo\obj\Debug\SortingAlgo.exe
+c:\users\lkarody\source\repos\SortingAlgo\SortingAlgo\obj\Debug\SortingAlgo.pdb

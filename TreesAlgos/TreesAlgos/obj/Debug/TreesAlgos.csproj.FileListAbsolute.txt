@@ -1,0 +1,7 @@
+C:\Users\lkarody\source\repos\TreesAlgos\TreesAlgos\bin\Debug\TreesAlgos.exe.config
+C:\Users\lkarody\source\repos\TreesAlgos\TreesAlgos\bin\Debug\TreesAlgos.exe
+C:\Users\lkarody\source\repos\TreesAlgos\TreesAlgos\bin\Debug\TreesAlgos.pdb
+C:\Users\lkarody\source\repos\TreesAlgos\TreesAlgos\obj\Debug\TreesAlgos.csprojAssemblyReference.cache
+C:\Users\lkarody\source\repos\TreesAlgos\TreesAlgos\obj\Debug\TreesAlgos.csproj.CoreCompileInputs.cache
+C:\Users\lkarody\source\repos\TreesAlgos\TreesAlgos\obj\Debug\TreesAlgos.exe
+C:\Users\lkarody\source\repos\TreesAlgos\TreesAlgos\obj\Debug\TreesAlgos.pdb

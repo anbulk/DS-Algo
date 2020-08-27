@@ -1,0 +1,7 @@
+C:\Users\lkarody\source\repos\ExpandoObject\ExpandoObject\bin\Debug\ExpandoObjectExample.exe.config
+C:\Users\lkarody\source\repos\ExpandoObject\ExpandoObject\bin\Debug\ExpandoObjectExample.exe
+C:\Users\lkarody\source\repos\ExpandoObject\ExpandoObject\bin\Debug\ExpandoObjectExample.pdb
+C:\Users\lkarody\source\repos\ExpandoObject\ExpandoObject\obj\Debug\ExpandoObject.csprojAssemblyReference.cache
+C:\Users\lkarody\source\repos\ExpandoObject\ExpandoObject\obj\Debug\ExpandoObject.csproj.CoreCompileInputs.cache
+C:\Users\lkarody\source\repos\ExpandoObject\ExpandoObject\obj\Debug\ExpandoObjectExample.exe
+C:\Users\lkarody\source\repos\ExpandoObject\ExpandoObject\obj\Debug\ExpandoObjectExample.pdb

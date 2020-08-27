@@ -1,0 +1,7 @@
+C:\Users\lkarody\source\repos\DynamicPRogramming\DynamicPRogramming\bin\Debug\DynamicPRogramming.exe.config
+C:\Users\lkarody\source\repos\DynamicPRogramming\DynamicPRogramming\bin\Debug\DynamicPRogramming.exe
+C:\Users\lkarody\source\repos\DynamicPRogramming\DynamicPRogramming\bin\Debug\DynamicPRogramming.pdb
+C:\Users\lkarody\source\repos\DynamicPRogramming\DynamicPRogramming\obj\Debug\DynamicPRogramming.csprojAssemblyReference.cache
+C:\Users\lkarody\source\repos\DynamicPRogramming\DynamicPRogramming\obj\Debug\DynamicPRogramming.csproj.CoreCompileInputs.cache
+C:\Users\lkarody\source\repos\DynamicPRogramming\DynamicPRogramming\obj\Debug\DynamicPRogramming.exe
+C:\Users\lkarody\source\repos\DynamicPRogramming\DynamicPRogramming\obj\Debug\DynamicPRogramming.pdb

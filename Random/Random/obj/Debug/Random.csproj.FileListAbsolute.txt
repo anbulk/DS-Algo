@@ -1,0 +1,7 @@
+C:\Users\lkarody\source\repos\Random\Random\bin\Debug\Random.exe.config
+C:\Users\lkarody\source\repos\Random\Random\bin\Debug\Random.exe
+C:\Users\lkarody\source\repos\Random\Random\bin\Debug\Random.pdb
+C:\Users\lkarody\source\repos\Random\Random\obj\Debug\Random.csprojAssemblyReference.cache
+C:\Users\lkarody\source\repos\Random\Random\obj\Debug\Random.csproj.CoreCompileInputs.cache
+C:\Users\lkarody\source\repos\Random\Random\obj\Debug\Random.exe
+C:\Users\lkarody\source\repos\Random\Random\obj\Debug\Random.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreesAlgos", "TreesAlgos\TreesAlgos.csproj", "{DF58E506-1732-4F32-86E8-C973CAB29631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF58E506-1732-4F32-86E8-C973CAB29631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF58E506-1732-4F32-86E8-C973CAB29631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF58E506-1732-4F32-86E8-C973CAB29631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF58E506-1732-4F32-86E8-C973CAB29631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {387B7A3C-30A7-4C8E-865D-6D84DE25F309}
+	EndGlobalSection
+EndGlobal

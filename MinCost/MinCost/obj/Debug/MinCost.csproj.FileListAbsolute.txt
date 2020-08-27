@@ -1,0 +1,7 @@
+C:\Users\lkarody\source\repos\MinCost\MinCost\bin\Debug\MinCost.exe.config
+C:\Users\lkarody\source\repos\MinCost\MinCost\bin\Debug\MinCost.exe
+C:\Users\lkarody\source\repos\MinCost\MinCost\bin\Debug\MinCost.pdb
+C:\Users\lkarody\source\repos\MinCost\MinCost\obj\Debug\MinCost.csprojAssemblyReference.cache
+C:\Users\lkarody\source\repos\MinCost\MinCost\obj\Debug\MinCost.csproj.CoreCompileInputs.cache
+C:\Users\lkarody\source\repos\MinCost\MinCost\obj\Debug\MinCost.exe
+C:\Users\lkarody\source\repos\MinCost\MinCost\obj\Debug\MinCost.pdb
