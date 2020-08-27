@@ -1,0 +1,12 @@
+D:\DS_Algo\ArithmeticCalculator\bin\Debug\netcoreapp3.1\ArithmeticCalculator.exe
+D:\DS_Algo\ArithmeticCalculator\bin\Debug\netcoreapp3.1\ArithmeticCalculator.deps.json
+D:\DS_Algo\ArithmeticCalculator\bin\Debug\netcoreapp3.1\ArithmeticCalculator.runtimeconfig.json
+D:\DS_Algo\ArithmeticCalculator\bin\Debug\netcoreapp3.1\ArithmeticCalculator.runtimeconfig.dev.json
+D:\DS_Algo\ArithmeticCalculator\bin\Debug\netcoreapp3.1\ArithmeticCalculator.dll
+D:\DS_Algo\ArithmeticCalculator\bin\Debug\netcoreapp3.1\ArithmeticCalculator.pdb
+D:\DS_Algo\ArithmeticCalculator\obj\Debug\netcoreapp3.1\ArithmeticCalculator.AssemblyInfoInputs.cache
+D:\DS_Algo\ArithmeticCalculator\obj\Debug\netcoreapp3.1\ArithmeticCalculator.AssemblyInfo.cs
+D:\DS_Algo\ArithmeticCalculator\obj\Debug\netcoreapp3.1\ArithmeticCalculator.csproj.CoreCompileInputs.cache
+D:\DS_Algo\ArithmeticCalculator\obj\Debug\netcoreapp3.1\ArithmeticCalculator.dll
+D:\DS_Algo\ArithmeticCalculator\obj\Debug\netcoreapp3.1\ArithmeticCalculator.pdb
+D:\DS_Algo\ArithmeticCalculator\obj\Debug\netcoreapp3.1\ArithmeticCalculator.genruntimeconfig.cache

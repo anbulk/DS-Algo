@@ -1,0 +1,13 @@
+D:\DS_Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.csprojAssemblyReference.cache
+D:\DS_Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.AssemblyInfoInputs.cache
+D:\DS_Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.AssemblyInfo.cs
+D:\DS_Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.csproj.CoreCompileInputs.cache
+D:\DS_Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.exe
+D:\DS_Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.deps.json
+D:\DS_Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.runtimeconfig.json
+D:\DS_Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.runtimeconfig.dev.json
+D:\DS_Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.dll
+D:\DS_Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.pdb
+D:\DS_Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.dll
+D:\DS_Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.pdb
+D:\DS_Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.genruntimeconfig.cache

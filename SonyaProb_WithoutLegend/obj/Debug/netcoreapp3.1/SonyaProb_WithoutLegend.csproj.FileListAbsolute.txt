@@ -1,0 +1,13 @@
+D:\DS_Algo\SonyaProb_WithoutLegend\bin\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.exe
+D:\DS_Algo\SonyaProb_WithoutLegend\bin\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.deps.json
+D:\DS_Algo\SonyaProb_WithoutLegend\bin\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.runtimeconfig.json
+D:\DS_Algo\SonyaProb_WithoutLegend\bin\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.runtimeconfig.dev.json
+D:\DS_Algo\SonyaProb_WithoutLegend\bin\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.dll
+D:\DS_Algo\SonyaProb_WithoutLegend\bin\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.pdb
+D:\DS_Algo\SonyaProb_WithoutLegend\obj\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.csprojAssemblyReference.cache
+D:\DS_Algo\SonyaProb_WithoutLegend\obj\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.AssemblyInfoInputs.cache
+D:\DS_Algo\SonyaProb_WithoutLegend\obj\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.AssemblyInfo.cs
+D:\DS_Algo\SonyaProb_WithoutLegend\obj\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.csproj.CoreCompileInputs.cache
+D:\DS_Algo\SonyaProb_WithoutLegend\obj\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.dll
+D:\DS_Algo\SonyaProb_WithoutLegend\obj\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.pdb
+D:\DS_Algo\SonyaProb_WithoutLegend\obj\Debug\netcoreapp3.1\SonyaProb_WithoutLegend.genruntimeconfig.cache
