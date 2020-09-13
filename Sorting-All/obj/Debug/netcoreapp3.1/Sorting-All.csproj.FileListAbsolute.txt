@@ -1,0 +1,12 @@
+D:\Coding_VS\VS Programmes\DS-Algo\Sorting-All\bin\Debug\netcoreapp3.1\Sorting-All.exe
+D:\Coding_VS\VS Programmes\DS-Algo\Sorting-All\bin\Debug\netcoreapp3.1\Sorting-All.deps.json
+D:\Coding_VS\VS Programmes\DS-Algo\Sorting-All\bin\Debug\netcoreapp3.1\Sorting-All.runtimeconfig.json
+D:\Coding_VS\VS Programmes\DS-Algo\Sorting-All\bin\Debug\netcoreapp3.1\Sorting-All.runtimeconfig.dev.json
+D:\Coding_VS\VS Programmes\DS-Algo\Sorting-All\bin\Debug\netcoreapp3.1\Sorting-All.dll
+D:\Coding_VS\VS Programmes\DS-Algo\Sorting-All\bin\Debug\netcoreapp3.1\Sorting-All.pdb
+D:\Coding_VS\VS Programmes\DS-Algo\Sorting-All\obj\Debug\netcoreapp3.1\Sorting-All.AssemblyInfoInputs.cache
+D:\Coding_VS\VS Programmes\DS-Algo\Sorting-All\obj\Debug\netcoreapp3.1\Sorting-All.AssemblyInfo.cs
+D:\Coding_VS\VS Programmes\DS-Algo\Sorting-All\obj\Debug\netcoreapp3.1\Sorting-All.csproj.CoreCompileInputs.cache
+D:\Coding_VS\VS Programmes\DS-Algo\Sorting-All\obj\Debug\netcoreapp3.1\Sorting-All.dll
+D:\Coding_VS\VS Programmes\DS-Algo\Sorting-All\obj\Debug\netcoreapp3.1\Sorting-All.pdb
+D:\Coding_VS\VS Programmes\DS-Algo\Sorting-All\obj\Debug\netcoreapp3.1\Sorting-All.genruntimeconfig.cache
