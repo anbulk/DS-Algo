@@ -27,6 +27,7 @@ namespace TreesAlgos
     }
 
 
+
     public class MyStack<T>
     {
         public List<Node<T>> data = new List<Node<T>>();
@@ -55,6 +56,31 @@ namespace TreesAlgos
 
     class Program
     {
+        public bool FindTarget(Node<int> root, int k)
+        {
+            return true;
+        }
+
+        public bool SearchTree(Node<int> root,int target)
+        {
+            var key = target - root.Data;
+
+            if (root == null)
+                return false;
+
+            if (root?.Data == key)
+                return true;
+
+           var val = SearchTree(root.Left, target);
+
+            if (val)
+                return val;
+
+           val = SearchTree(root.Left, target);
+           return val;
+
+
+        }
 
         static int Max(int a, int b)
         {

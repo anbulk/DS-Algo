@@ -1,0 +1,7 @@
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\ArrayOperations\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\ArrayOperations\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\ArrayOperations\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\ArrayOperations\ConsoleApp2\obj\Debug\ArrayManipulation.csprojAssemblyReference.cache
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\ArrayOperations\ConsoleApp2\obj\Debug\ArrayManipulation.csproj.CoreCompileInputs.cache
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\ArrayOperations\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\ArrayOperations\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
