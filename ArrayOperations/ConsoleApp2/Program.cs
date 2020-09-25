@@ -232,10 +232,6 @@ namespace Array.Manipulation
             a[1] = new int[4] { 4, 5, 6, 7 };
             a[2] = new int[4] { 8, 9, 10, 11 };
 
-            Console.WriteLine(a.Length);
-
-            Console.WriteLine(a[0].Length);
-
             SetZeroes(a);
 
             Console.Read();

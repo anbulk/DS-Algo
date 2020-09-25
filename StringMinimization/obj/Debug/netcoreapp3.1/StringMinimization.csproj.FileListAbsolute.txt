@@ -11,3 +11,16 @@ D:\DS_Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.pdb
 D:\DS_Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.dll
 D:\DS_Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.pdb
 D:\DS_Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.genruntimeconfig.cache
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.exe
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.deps.json
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.runtimeconfig.json
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.runtimeconfig.dev.json
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.dll
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\bin\Debug\netcoreapp3.1\StringMinimization.pdb
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.csprojAssemblyReference.cache
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.AssemblyInfoInputs.cache
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.AssemblyInfo.cs
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.csproj.CoreCompileInputs.cache
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.dll
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.pdb
+C:\Users\lubna.karody\Documents\GitHub\DS-Algo\StringMinimization\obj\Debug\netcoreapp3.1\StringMinimization.genruntimeconfig.cache

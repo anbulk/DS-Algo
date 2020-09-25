@@ -6,7 +6,46 @@ namespace StringMinimization
 {
     class Program
     {
+        public static  IList<IList<string>> GroupAnagrams(string[] strs)
+        {
 
+            if (strs.Length == 0)
+                return new List<IList<string>>();
+
+            IList<IList<string>> r = new List<IList<string>>();
+
+            Dictionary<string, IList<string>> d = new Dictionary<string, IList<string>>();
+
+            foreach (var s in strs)
+            {
+                //key = sorted s
+                //add to dict if not present with value as unsorted s
+                var sorted = String.Concat(s.OrderBy(c => c));
+                if (!d.ContainsKey(sorted))
+                {
+                    d.Add(sorted, new List<string>() { s });
+                }
+                else
+                {
+                    //if present then add as value for exisiting key  
+                    var val =  d.Where(k => k.Key.Equals(sorted)).First().Value;
+                    val.Add(s);
+                    d[sorted] = val;
+                }      
+
+
+
+            }
+
+
+            foreach(var i in d)
+            {
+                r.Add(i.Value);
+            }
+
+            return r;
+
+        }
 
 
         //public static string MinimizeString(string input)
@@ -158,12 +197,15 @@ namespace StringMinimization
         static void Main(string[] args)
         {
 
-            var arrLength = Convert.ToInt64(Console.ReadLine());
+            //var arrLength = Convert.ToInt64(Console.ReadLine());
 
-            var numbers = Convert.ToString(Console.ReadLine()).Split(' ').ToList();
+           // var numbers = Convert.ToString(Console.ReadLine()).Split(' ').ToList();
 
-            var arr = numbers.Select(int.Parse).ToList();
+           /// var arr = numbers.Select(int.Parse).ToList();
 
+            var strs = new string[] { "eat", "tea", "tan", "ate", "nat", "bat" };
+
+            GroupAnagrams(strs);
 
         }
     }
