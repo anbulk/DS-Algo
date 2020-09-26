@@ -6,7 +6,41 @@ namespace StringMinimization
 {
     class Program
     {
-        public static  IList<IList<string>> GroupAnagrams(string[] strs)
+        public static int LengthOfLongestSubstring(string s)
+        {
+            if (s.Length == 1)
+                return 1;
+
+            var longest = 0;
+            List<int> lenghts = new List<int>();
+            Dictionary<char,int> occured = new Dictionary<char,int>();
+            for (var i = 0; i < s.Length; )
+            {
+                if (!occured.ContainsKey(s[i]))
+                {
+                    occured.Add(s[i],i);
+                    longest++;
+                    i++;
+                }
+                else
+                {
+                    lenghts.Add(longest);
+                    longest = 0;
+                    var temp = s[i];
+                    i = occured[s[i]]+1;
+                    occured.Clear();
+
+
+                }
+
+            }
+            lenghts.Add(longest);
+            return lenghts.Count != 0 ? lenghts.Max() : 0;
+        }
+
+
+
+        public static IList<IList<string>> GroupAnagrams(string[] strs)
         {
 
             if (strs.Length == 0)
@@ -28,17 +62,17 @@ namespace StringMinimization
                 else
                 {
                     //if present then add as value for exisiting key  
-                    var val =  d.Where(k => k.Key.Equals(sorted)).First().Value;
+                    var val = d.Where(k => k.Key.Equals(sorted)).First().Value;
                     val.Add(s);
                     d[sorted] = val;
-                }      
+                }
 
 
 
             }
 
 
-            foreach(var i in d)
+            foreach (var i in d)
             {
                 r.Add(i.Value);
             }
@@ -103,7 +137,7 @@ namespace StringMinimization
 
             for (var i = 0; i < arr.Count; i++)
             {
-                if(arr[i] > arr[i+1])
+                if (arr[i] > arr[i + 1])
                 {
 
                 }
@@ -199,13 +233,16 @@ namespace StringMinimization
 
             //var arrLength = Convert.ToInt64(Console.ReadLine());
 
-           // var numbers = Convert.ToString(Console.ReadLine()).Split(' ').ToList();
+            // var numbers = Convert.ToString(Console.ReadLine()).Split(' ').ToList();
 
-           /// var arr = numbers.Select(int.Parse).ToList();
+            /// var arr = numbers.Select(int.Parse).ToList();
 
             var strs = new string[] { "eat", "tea", "tan", "ate", "nat", "bat" };
 
-            GroupAnagrams(strs);
+            //GroupAnagrams(strs);
+
+            Console.WriteLine(LengthOfLongestSubstring("abcabcbb"));
+            Console.Read();
 
         }
     }
